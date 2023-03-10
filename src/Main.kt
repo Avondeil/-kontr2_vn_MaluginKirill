@@ -1,8 +1,6 @@
 import kotlinx.coroutines.*
 suspend fun main(){
     try {
-        {
-        }
         var Tovar: Tovar = Tovar(
             "Робот пылесос",
             1000.0, "шт", "Электроника", 10, 10000.0
